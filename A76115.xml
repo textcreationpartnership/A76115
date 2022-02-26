@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvaters of Marah sweetned. A thanks-giving sermon. Preached at Taunton, in the county of Somerset, May 11. 1647. for the gracious deliverance of that poore towne from the strait and bloody siege. / By T.B. Master of Arts, and a minister of the gospel in that county.</title>
+            <author>Batt, Timothy, 1613-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76115</idno>
+            <idno type="STC">Wing B1148</idno>
+            <idno type="STC">Thomason E433_19</idno>
+            <idno type="STC">ESTC R206196</idno>
+            <idno type="EEBO-CITATION">99865370</idno>
+            <idno type="PROQUEST">99865370</idno>
+            <idno type="VID">161549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvaters of Marah sweetned. A thanks-giving sermon. Preached at Taunton, in the county of Somerset, May 11. 1647. for the gracious deliverance of that poore towne from the strait and bloody siege. / By T.B. Master of Arts, and a minister of the gospel in that county.</title>
+                  <author>Batt, Timothy, 1613-1692.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Eglesfield, and are to be sold by George Treagle in Taunton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.B. = Timothy Batt.</note>
+                  <note>Annotation on Thomason copy: "March 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Exodus XV, 23-25 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Taunton (England) --  History --  Siege, 1645 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161549:1" rendition="simple:additions"/>
+            <p>THE VVATERS OF <hi>MARAH</hi> SWEETNED.</p>
+            <p>
+               <hi>A Thanks-giving</hi> SERMON.</p>
+            <p>Preached at <hi>Taunton,</hi> in the County of <hi>Somerſet, May</hi> 11. 1647. for the gracious deliverance of that poore Towne from the ſtrait and bloody Siege.</p>
+            <p>By <hi>T. B.</hi> Maſter of Arts, and a Miniſter of the Goſpel in that County.</p>
+            <q>
+               <bibl>
+                  <hi>EZEK. 24.2.</hi>
+               </bibl>
+               <p>Write thee the name of the day; even of this ſame day.—</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>DEUT. 4.32, 39.</hi>
+               </bibl>
+               <p>For ask now of the days that are paſt, which were before thee ſince the day that God created man upon the earth, and aske from one ſide of the heaven to the other, whether there hath been any ſuch thing, as this great thing is, or hath been heard like it?</p>
+               <p>Know therefore this day, and conſider it in your hearts, that the Lord he is God in heaven above, and upon the earth beneath, there is none elſe.</p>
+               <p>Keep therefore his ſtatutes and his commandements—</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Eglesfield,</hi> and are to be ſold by <hi>George Treagle</hi> in <hi>Taunton.</hi> 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:161549:2"/>
+            <pb facs="tcp:161549:2"/>
+            <head>To the Right VVorſhipfull the Major, with all the faithfull and well affected (to God and his Cauſe) Inhabitants of the Town of <hi>Taunton.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our importunities drew me to an un<g ref="char:EOLhyphen"/>dertaking the duty of<note n="*" place="margin">
+                  <hi>May</hi> 11. 1645. Being the day of their delive<g ref="char:EOLhyphen"/>rance.</note> That Day: A day ſet apart for<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>vi.</hi> Tit. Pſal. 38.</note> calling to re<g ref="char:EOLhyphen"/>membrance the day, as of your en<g ref="char:EOLhyphen"/>largement, ſo the Kingdomes dawnings toward deliverance. Your inceſſant reſtleſſe deſires (af<g ref="char:EOLhyphen"/>ter much ſelf-ſtrugling) have hardned me a<g ref="char:EOLhyphen"/>gainſt the conſcience of my weak abilities, to of<g ref="char:EOLhyphen"/>fer unto yours and the publick view, this Sermon from the Preſſe, which, when delivered, you were pleaſed with patience to attend; and readineſſe of affection to imbrace. Jts not ſelf-overvalu<g ref="char:EOLhyphen"/>ing, or forwardneſſe of mine owne, that carries theſe lines abroad: 'twas enough in my appre<g ref="char:EOLhyphen"/>henſion, that ſuch ſuddain and broken concepti<g ref="char:EOLhyphen"/>ons were taken in by ſo judicious an Aſſembly.
+<pb facs="tcp:161549:3"/>However, if its publication may miniſter occa<g ref="char:EOLhyphen"/>ſion of perpetuating the memory of Gods great goodneſſe to <hi>Taunton,</hi> by remaining its<note n="*" place="margin">M. <hi>Newton,</hi> the reverend Paſtour of <hi>Taunton,</hi> having preached the firſt Anniver<g ref="char:EOLhyphen"/>ſary Sermon in memory of that Townes deliverance.</note> 
+               <hi>ſe<g ref="char:EOLhyphen"/>cond remembrancer</hi> of that unparallel'd deli<g ref="char:EOLhyphen"/>verance of yours, (the onely ground of your ſoli<g ref="char:EOLhyphen"/>citations to me; as for the then preaching, ſo for the now printing of this Sermon:) may it contribute the leaſt mite towards the quickning of your hearts that way, its my expected recom<g ref="char:EOLhyphen"/>pence and glory. And if its homely dreſſe may render it low, or unſatisfying for ſo knowing an age as this, be pleaſed to conſider, J intended not in this (or any other) with excellency of ſpeech, or<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Cor. 2.4.</note> perſwaſible words of mans wiſdome, to Court the fancy; my deſire being to ſpeak a word in ſeaſon, and to preach not my ſelfe, but Chriſt Jeſus the Lord, and my ſelfe</p>
+            <closer>
+               <signed>Your Servant for Ieſus ſake, <hi>T. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:161549:3"/>
+            <head>The waters of Marah ſweetned, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EXOD. 15.23, 24, 25.</hi>
+                  </bibl>
+                  <p>And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.</p>
+                  <p>And the people murmured againſt Moſes, ſaying, What ſhall we drink?</p>
+                  <p>And he cryed unto the Lord: and the Lord ſhewed him a tree, which when he had caſt into the waters, the waters were made ſweet.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E are met here to ſolemnize this day in a re<g ref="char:EOLhyphen"/>ligious acknowledgement of thoſe mercies and unparallel'd deliverances, which the great God (who is the hope of <hi>Iſrael,</hi> and their Saviour in the day of trouble) hath reacht forth to you of this place, in cruſhing the cruelty, blaſting the hopes, and defeating the projects, of his, yours, and his Churches enemies. Indeed, God hath gi<g ref="char:EOLhyphen"/>ven to you abundant matter of thankſgiving; you have whole ſtories of wonders, enough to fill your hearts and mouthes with eternall praiſes; and if your natures could be content to ſmother theſe favours in ſilence, the lepers of <hi>Samaria</hi> would condemne your ingratitude, and tell you to your faces, you did not well to hold your peace; <hi>ſeeing this day is a day of good tidings,</hi> 2 <hi>Reg.</hi> 7.9. In fur<g ref="char:EOLhyphen"/>therance therefore of your piety, I have made choice of this Scripture: which though it may ſeeme unſuitable
+<pb n="2" facs="tcp:161549:4"/>both to the Auditors and occaſion; yet I doubt not, but you may meet with ſomething in it, that may both re<g ref="char:EOLhyphen"/>freſh your memories, and quicken your devotions. I muſt confeſſe, the greatneſſe of this work, and the inſufficiency of mine owne abilities, might have been a ſufficient plea, to have wav'd this task; but that I might not ſeem wan<g ref="char:EOLhyphen"/>ting to Gods glory, or your deſires, I have adventured to appeare in this place, before this Aſſembly, upon this occaſion. Let me beg this, that I may find you attentive, leave you thankfull.</p>
+            <p>
+               <hi>Iſrael</hi> was now on their journey againe for <hi>Canaan:</hi> their ſongs are ſcarce ended for their deliverance from <hi>Pharaoh,</hi> and their cruell task-maſters, but behold ano<g ref="char:EOLhyphen"/>ther rub in the way: a new trouble aſſaults them: they were not (in their owne apprehenſions) in more danger of periſhing formerly by the hands of their enemies, then now they are for want of water; they had gone three dayes journey, and could find none. Here was a ſharp mi<g ref="char:EOLhyphen"/>ſery, clapt upon the heeles of a ſweet mercy. VVhen God delivers us from deſtruction, he doth not ſecure us from affliction. Though we are not condemned <hi>with,</hi> yet we may be chaſtned <hi>in</hi> the world.</p>
+            <p>In the words we have
+<list>
+                  <item>1. The peoples expectation.</item>
+                  <item>2. The diſappointment of that expectation, with the reaſon of it, <hi>They could not drink, &amp;c.</hi>
+                  </item>
+                  <item>3. Their carriage upon that diſappointment, <hi>They murmured againſt Moſes.</hi>
+                  </item>
+                  <item>4. <hi>Moſes</hi> his practice, or the courſe he takes upon that carriage, <hi>He cryes to God.</hi>
+                  </item>
+                  <item>5. Gods returne to <hi>Moſes</hi> his prayer, <hi>The waters were healed.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:161549:4"/>
+            <p>For the opening of the words.</p>
+            <p>Firſt, what is meant by <hi>the waters of Marah.</hi> Two or three things held forth in it. 1. Afflictions. <hi>Jer.</hi> 23.15. <hi>They ſhall drink the water of gall:</hi> Afflictions are bitter wa<g ref="char:EOLhyphen"/>ters. So <hi>Lam.</hi> 3.15. <hi>He hath filled me with bitterneſſe, he hath made me drunk with wormwood.</hi>
+               <note n="*" place="margin">Fer. Annot. in Exod. cap. 15.</note> 2. The Law, with the curſes and terrours of it: tis very bitter. Sinne never kills, untill the Law put life in it. <hi>The ſtrength of ſin is the Law,</hi> 1 <hi>Cor.</hi> 15.56. 3. The hereſies, errors, and ſchiſmes in the doctrine and worſhip of God, <hi>Apoc.</hi> 8.11.</p>
+            <p>Secondly, what tree this was, that <hi>Moſes</hi> caſt into the waters, that made them ſweet. Some think it was ſome ſweet tree, that had a naturall vertue in it to produce ſweetneſſe. Others, that it was a very bitter tree, and ſo likely in its owne nature to make the waters more bitter. So that the changing of the water was not naturall, but divine, miraculous, as is evident from the ſmalneſſe of the tree; from the abundance of the waters; as much as ſufficed 600000. men; the ſuddenneſſe of the change, and the ſhortneſſe of it; they were ſweet but for the preſent: This God could have done without any externall ſigne,<note place="margin">Fer. Annot. in Exod. cap. 15.</note> but he was pleaſed to uſe this meanes for the manifeſta<g ref="char:EOLhyphen"/>tion of his owne power, and that it might leave the dee<g ref="char:EOLhyphen"/>per impreſſion upon their ſpirits, who were ſo dull and hard to beleeve.</p>
+            <p>Thirdly, what this tree points out. It intimates to us, Chriſt and his Goſpel. <hi>Gal.</hi> 6.14. The Goſpel hath a croſſe that goes along with it: yet tis ſuch a croſſe, as ſwee<g ref="char:EOLhyphen"/>tens all other croſſes to us. <hi>Rom.</hi> 8.1. <hi>There is no condem<g ref="char:EOLhyphen"/>nation to them that are in Chriſt Jeſus, &amp;c.</hi> Let the Law come thundring out all its curſes and terrours, it can ne<g ref="char:EOLhyphen"/>ver trouble a gracious ſpirit: here is a tree that ſweetens all.</p>
+            <pb n="4" facs="tcp:161549:5"/>
+            <p>From the coherence obſerve,</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> After great mercies may come great miſeries.</q>
+            <p>Croſſes oftentimes lie neere our choiceſt comforts: God uſually doth mingle his favours with afflictions: ſee it here in theſe Iſraelites, after their joyfull melody of ſongs, and inſtruments of muſick, they are exerciſed firſt with thirſt, and then that thirſt is tortured with bitter water: See it in <hi>Abraham, Gen.</hi> 22. <hi>Sampſon, Judg.</hi> 16. the Church, <hi>Act.</hi> 12. what ever our comforts may be, yet croſſes will follow, and trip up our heeles. A Belee<g ref="char:EOLhyphen"/>ver here in this world, is halfe in heaven, and halfe out; Sathan may come to buffet him, as well as Chriſt to comfort him: A Chriſtians life, is but an intercourſe of peace and trouble: God hath his ends in it.</p>
+            <p>Firſt, that he might drive us to the throne of grace: times of diſtreſſe are praying times: I doubt not but you of this place can ſeale to this truth, <hi>Lord in their trouble they have viſited thee: they poured out a prayer, when thy chaſtning was upon them, Eſay</hi> 26.16. their prayers did but drop before, now they are poured forth. And that of <hi>Hoſea</hi> 5. <hi>ult. In their afflictions they will ſeek me early. Dant animum ad loquendum liberè ultimae miſeria. Liv. l.</hi> 9. Extremities are not onely an incentive, but a warrant to importunities: a ſtorme will bring a very heathen upon his knee, <hi>Jonah</hi> 1.5. God knowes that his children are never ſo fuly diſpoſed to ſervency in prayer, as when the Croſſe is upon their ſhoulders.</p>
+            <p>Secondly, that he might keep us from carnall ſecurity. A man is never more apt to grow ſecure, never a fitter prey for Sathan, then after ſome great mercy received: as men are more drowſie after a feaſt, then upon an emp<g ref="char:EOLhyphen"/>ty ſtomack; ſo we after a feaſt of mercies: and therefore God will exerciſe us this way, that he might keep us wa<g ref="char:EOLhyphen"/>king.
+<pb n="5" facs="tcp:161549:5"/>No ſleep ſo dangerous as that in ſinne.</p>
+            <p>Thirdly, that we might ſet the higher price upon his favours: we uſually love that beſt, which we ſometimes want, are likely to looſe one years peace now, is better then 80. heretofore: <hi>Abrahams</hi> Sonne at ſeventy years, was better then if he had been given ſooner; and the ſame <hi>Iſaack</hi> had not been ſo precious to him, had he not been as miraculouſly reſtored, as given; his recovery from death made him more acceptable, then if he had never been in danger.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> Is it ſo, that after great mercies, may come great miſeries? Then, though you have, and doe enjoy great mercies, dream not of a freedome from croſſes, whilſt here below, our preſent eſtate is no Paradiſe of eaſe, but a warfare: we are like a ſhip on the waters; though the Sun ſhine to day, a ſtorm may ariſe to morrow, which may ſuddainly deprive you of all your preſent enjoyments. I beſeech you tel me, how have you improved your delive<g ref="char:EOLhyphen"/>rances? have you been the more aboundant in your obe<g ref="char:EOLhyphen"/>dience, in giving God the glory of your peace, Liberties, lives, and thoſe comforts you now enjoy, whereof you might have been deprived by the malice of men, the wrath of God? is your ſtrength improved in his ſervice, your time ſpent to his glory, for his praiſe, your All laid out for him? or rather have not they brought forth ſecu<g ref="char:EOLhyphen"/>rity, profaneneſſe, pride, a looſe and careleſſe walking with your God, a wantonneſſe of ſpirit in the things of God and his Son? Is not drunkenneſſe, ſwearing, who<g ref="char:EOLhyphen"/>ring, profanation of Gods day and ordinances, are not theſe as ſtrong, as generall as ever? how many of you are guilty of one, or more of the fore-named ſins? (the ſheep bleat, the oxen bellow.) In moſt, what is there more then a meere forme of godlineſſe, more then a name
+<pb n="6" facs="tcp:161549:6"/>to live? and can you then expect a continuance of your undervalued mercies, which you have ſo evilly impro<g ref="char:EOLhyphen"/>ved, ſo horribly abuſed? Oh tremble to conſider what may yet become of you; and feare, leſt your habitations that are yet remaining, be made a deſolation; leſt a pro<g ref="char:EOLhyphen"/>voked God, cauſe you with weeping and amazed eyes to read this leſſon, <hi>Oh that we had knowne, even we (who have been partakers of ſuch a deliverance as this in this our day, the things that did belong unto our peace! But now</hi>— You may weep out the reſt. But I proceed.</p>
+            <p>
+               <hi>And when they came to Marah, they could not drink, &amp;c.</hi> Obſerve that</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> It is the nature of creature-comforts, to diſappoint our expectations.</q>
+            <p>They are like <hi>Jobs</hi> deceitfull brooks, <hi>Job</hi> 6.15. that will make men aſhamed in the Summer, when they turne aſide for water to refreſh them, and find none. There are five particulars wherein this truth appeares.</p>
+            <p n="1">1. In regard of their entitie, and ſubſtance; they have not that in them, which we expect they ſhould yeeld: What <hi>Solomon</hi> ſpeakes of dainties, is true here; Deſire not his dainties, for they are deceitfull: there is abun<g ref="char:EOLhyphen"/>dance of falſhood in creature-comforts.</p>
+            <p n="2">2. In regard of their quantity; there is not enough in the creature to ſupply our wants. See <hi>Hag.</hi> 1.6, 9. <hi>You have ſown much, and bring in little, &amp;c. Ye lookt for much, and loe, it came to little:</hi> the Creatures are too poore, too beggerly to content or ſatisfie us.</p>
+            <p n="3">3. In regard of their quality. Men think in changing their condition, to find waters of life, but they meet with waters of death. There is that in them will poyſon, when relyed on.</p>
+            <p n="4">4. In regard of the efficacie. There is little efficacie in
+<pb n="7" facs="tcp:161549:6"/>any creature we can fancie, little vertue of their own, to convey any comfort, they are but like a dead man, no way uſefull, till God put life in them: the ſtrength they have, they doe receive from heaven. <hi>Man lives not by bread, &amp;c.</hi>
+            </p>
+            <p n="5">5. In regard of their duration: Riches take Eagles wings and flee away, <hi>Prov.</hi> 23.5. ſwiftly, ſuddenly, irre<g ref="char:EOLhyphen"/>coverably. All dependance upon outward comforts, in outward excellencies, is uncertaine, dangerous; if a man reſt on them, he may out-live his truſt, his prop may be taken away, and then downe he falls.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> Is it ſo? Let not your hearts run out after theſe de<g ref="char:EOLhyphen"/>ceitfull, empty, poyſonous, feeble, dying comforts, that cannot but diſappoint you. <hi>Nulla res longa mortalium eſt, omniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> foelicitas ſeculi, dum teneiur amittitur. Hier.</hi> All the excellencie of all creature-comforts, is but like an impreſſion of a ſeale upon water, which doth vaniſh ere you ſee where, or what it was: or like a picture drawne upon ice, that melts away with it. <hi>The faſhion of this world paſſeth away,</hi> 1 <hi>Cor.</hi> 7.31. The Apoſtle ſheweth, how unbeſeeming a thing it is for a Chriſtian to ſet his heart upon things that are ſo vaine, rather ſhadows then true ſubſtantials. VVhen <hi>Alexander</hi> ſaw that he was woun<g ref="char:EOLhyphen"/>ded, and by that wound likely to die, he did then per<g ref="char:EOLhyphen"/>ceive the vanity of thoſe flatteries, who did perſwade him, that he was a god: So when you ſhal ſee thoſe com<g ref="char:EOLhyphen"/>forts, after which your ſpirits have been let out, and on which your hearts have been ſo mightily ſet, as if your chiefeſt good had been lockt up in them, when you ſee them wounded, and the impreſſion of death upon them; learn to ſee the vanity of your flattering thoughts, and to work off your hearts from ſuch things, as are compo<g ref="char:EOLhyphen"/>ſed of ſuch fading principles: Look upon them, as upon
+<pb n="8" facs="tcp:161549:7"/>the wing, ready to fly away. <hi>Jacob</hi> ſerved <hi>Laban</hi> twenty years, and his wages was changed ten times. Thus the world deales with them, who ſerve her. Oh that the con<g ref="char:EOLhyphen"/>ſideration of it might cauſe you to abate the edge of your deſires, and learn you to let out your affections after none but Chriſt! he deceives none, failes none, never dies, but is ſtill the ſame; able, willing to help, to ſatisfie. Remem<g ref="char:EOLhyphen"/>ber that of the Pſalmiſt, <hi>Pſal.</hi> 36.8. <hi>Thou ſhalt make them drink of the river of thy pleaſures.</hi> While we ſeek after creature-comforts, we ſeek to drink in puddles; but when we ſeek to Chriſt, we ſhall have rivers of pleaſures, which are both ſweet and ſure: and the leſſe you take of that, the more you ſhall receive of theſe.—<hi>For the waters were bitter.</hi>
+            </p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> Gods children ſhall meet with waters of Marah in their way to Canaan.</q>
+            <p>Whoſoever will walk in Gods wayes, muſt look for bitter things, not from foes onely, but friends. <hi>Call me not Naomi, but Marah, for the Lord hath dealt bitterly with me.</hi> So 2 <hi>Reg.</hi> 14.26. <hi>God ſaw the affliction of Iſrael, that it was bitter:</hi> And <hi>Job</hi> complains, that <hi>God had writ<g ref="char:EOLhyphen"/>ten bitter things againſt him.</hi> Well then, if you reſolve for <hi>Canaan,</hi> reſolve to meet with the waters of <hi>Marah</hi> in your journey; yet let not that diſcourage you, for God can, and will lend a tree to ſweeten them.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> When men are diſappointed of their expectations, they are apt to murmur.</q>
+            <p>See it here in <hi>Iſrael;</hi> the people want water, and inſtead of ſeeking to God, they murmur againſt <hi>Moſes;</hi> as if he had dryed the wilderneſſe, or imbittered the waters. How mad is Man when he wants his naturall deſires! Croſſe but his will, and you ſhall quickly ſee and know what is in him. One would have thought that nothing could
+<pb n="9" facs="tcp:161549:7"/>have opened their mouthes to have ſpoken ill of <hi>Moſes;</hi> even the beſt in authority are ſubject to be murmured at, reviled. If people fare well, they applaud themſelves; if ill, they repine againſt their Magiſtrates, their Governors. Some natures are ſo ſqueamiſh, that (as one ſaid) God himſelfe can ſcarce pleaſe them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> Take heed ye be not found guilty of this ſin: Your murmurings will hinder your mercies, and if continued in, will undoe you. <hi>Murmur not, as ſome of them did, and were destroyed,</hi> 1 <hi>Cor.</hi> 10.10. your deliverance is enough to make you thankfull, though what you expect be yet denyed you. If God anſwer you not in every thing, will you take pleaſure in nothing? will you ſlight his favours, becauſe in one thing he croſſes you? his leaſt mercy is beyond your beſt merit. Be ſilent before the Lord, leſt he anſwer you again in fury. And to help you in it, take theſe following rules.</p>
+            <p n="1">1. Vſe a holy ſilence, not of tongue, but of ſpirit. When <hi>Aarons</hi> ſons were ſtrucken dead with fire, <hi>he held his peace:</hi> And <hi>David, Pſal.</hi> 39.9. <hi>I held my tongue, becauſe it was thy doing; I was dumb, becauſe thou didſt it.</hi> Thus <hi>Hezekiah, Good is the word of the Lord,</hi> when he had received that ſharp meſſage, <hi>Eſay</hi> 39.8.</p>
+            <p n="2">2. Adore what we cannot fearch the reaſon of: as the myſteries of ſalvation, and Providence, the Well is deep, we cannot fathom it; therefore with <hi>Paul,</hi> let us adore it. <hi>Rom.</hi> 11.33. <hi>O the depth! Gods wayes are paſt finding out.</hi>
+            </p>
+            <p n="3">3. Seek after a great meaſure of ſelf-denyall: the grea<g ref="char:EOLhyphen"/>teſt enemie of our conformity to Gods will, is our Self, ſelf-love, ſelf-ends, ſelf-will; oppoſe, ſubdue theſe, and that will help you againſt this ſin. <hi>And he cryed to the Lord, &amp;c.</hi> From hence obſerve, That
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>5</label> Fervent Prayer, is a ſpeciall remedy in our greateſt extremitie.</q>
+               <pb n="10" facs="tcp:161549:8"/>Be we where we will, we may uſe this; and tis the beſt means to help us out of trouble: tis Gods prevailing ordinance, and tis that great engine that hath carryed on things ſo proſperouſly for us: <hi>Luther</hi> calls the prayers of the Saints ſo many <hi>guns;</hi> and the Fathers call them <hi>the Churches Artillery;</hi> which, if ſent from the heart, they pierce the very heavens, and wound the Lord of Hoſts with pity: it overcomes him; <hi>Let me alone Mo<g ref="char:EOLhyphen"/>ſes, Exod.</hi> 32.10. tis the golden key which unlocks heaven, and fetches all from God: Whatever is in Gods power, is a Saints by prayer; and what ever we want there, we may fetch it: if ſoule-ſtrength, <hi>Pſal.</hi> 138.3. if ſtrength againſt enemies, <hi>Pſal.</hi> 109.4. <hi>For my love they are mine adverſaries, but I give my ſelfe to prayer: q. d.</hi> That is my refuge, I will not raile as they doe, I wil make my moane to my God. Tis a ſigne of a gracious ſpirit to lay the burthen upon Prayer. And though the ſtrongeſt arguments we can uſe cannot alter God, yet they change and move our hearts: and God is pleaſed to be ſo indul<g ref="char:EOLhyphen"/>gent to us, and to ſuffer us thus to plead with him, and then he uſually anſwers: but yet tis 1. when tis in faith, that is one of our chiefeſt ſtrengths, <hi>Gen.</hi> 32.9. Where there are but words, they vaniſh, but where there is faith, that makes it prevalent.<note place="margin">
+                  <hi>Jan.</hi> 1.15.</note> 2. When you can appeale to God, that we are in his way he ſet us in: when a ſoul can ſay, Though there be ſuch a difficulty, yet Lord thou knoweſt I am in thy way. 3. When we can plead a par<g ref="char:EOLhyphen"/>ticular promiſe: the more faith there is to plead a pro<g ref="char:EOLhyphen"/>miſe for what I have in hand, the more aſſurance to pre<g ref="char:EOLhyphen"/>vaile. 4. A ſenſe of our owne unworthineſſe: When a ſoule comes to ſee his vileneſſe, emptineſſe, and ſo comes with humility, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> Is it ſo? It condemnes thoſe that make not uſe of
+<pb n="11" facs="tcp:161549:8"/>this remedy in their diſtreſſes, who want both words and hearts to go to God: When you ſpeak to men, you are ful; but when to God, you have nothing to ſay: But conſider; is not God a Father, and can Children want a tongue to ſpeak to their Father? Is not God a Husband, and can a Wife want words to ſpeak to her Husband?</p>
+            <p n="2">2. Is it ſo? Let wicked men take heed how they wrong the Saints, who have ſuch a powerfull means to help them<g ref="char:EOLhyphen"/>ſelves: If they complain, <hi>the Lord is bound to hear,</hi> Exod. 21.23. and <hi>if he take the matter into his hands, woe be unto ye,</hi> Pſal. 2.</p>
+            <p n="3">3. Is it ſo? You then who have had experience of this powerfull ordinance, and have found God to be a prayer hearing, and a prayer anſwering God in his gracious re<g ref="char:EOLhyphen"/>turnes of mercy: Bleſſe this God, for his favours thus conferred, get enlarged hearts to ſet forth his mercies accor<g ref="char:EOLhyphen"/>ding to their merits. Indeed the tongue of Men and An<g ref="char:EOLhyphen"/>gels can never do it as they ſhould; but will not you there<g ref="char:EOLhyphen"/>fore do as you may? His mercies have not failed you, and ſhall your acknowledgements fail him? ſhould you not finde your tongues to praiſe him for his favours enjoyed, as well as pray for them, wanted? As miſeries are removed by prayer, ſo mercies are to be welcomed with ſongs: Sa<g ref="char:EOLhyphen"/>crifices of thankſgiving did alwayes follow Sacrifices of pacification. <hi>Lev.</hi> 3. Could you poure out petitions in time of need, in the day of your diſtreſs; &amp; will you not drop forth a few thanks, when you have what you would, more then you expected, then ye pray'd for? No, let your right hands forget their cunning, your tongues for ever cleave to the roof of your mouthes, rather then forget, neglect to ſet forth his praiſes, who hath given you ſuch a deliverance. <hi>And the Lord ſhewed him a tree, &amp;c.</hi>
+            </p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>6</label> God never wants ſupplies to help his People.</q>
+            <pb n="12" facs="tcp:161549:9"/>
+            <p>Did you ever know the Sun want light; the Sea, a Foun<g ref="char:EOLhyphen"/>tain, Water? God is a ſun, a ſun of righteouſneſſe; a Sea, a Fountain, a Spring of living Water; and though you may, yet he is never empty; there is ſtill an overflowing fulneſſe in him, he is never at a ſtand, but knowes how to comfort, to deliver his,<note place="margin">Pſal. <hi>84.</hi> Pſal. <hi>18.2.</hi> Jer. <hi>2.</hi> Eze. <hi>11.</hi> Eſay <hi>33.21</hi> and <hi>27.3.</hi>
+               </note> 2 <hi>Pet.</hi> 2.9. I might bring a cloud of witneſſes to make good this truth; ſcarce a page in the book of God but proclaims it. Hence you ſhall find, he is compared to whatſoever may be requiſite, for the comfort and defence of his people: Sometimes he is ſtyled a <hi>Sun,</hi> a <hi>ſheild,</hi> a <hi>ſan<g ref="char:EOLhyphen"/>ctuary,</hi> a <hi>refuge,</hi> a <hi>rock,</hi> a <hi>fountaine,</hi> a <hi>light,</hi> &amp;c. to teach us, whatever our condition, our wants be, there is that in God will anſwer, will ſupply all. Hence is he called an <hi>all ſuf-fi<g ref="char:EOLhyphen"/>cient,</hi> an <hi>Almighty God;</hi> a <hi>God to whom nothing is hard,</hi> Gen. 18.14. <hi>Infinite in wiſdome,</hi> that knows all our wants, and the way to ſupply them; knowes them, not onely <hi>objectivè,</hi> but <hi>affectivè; being touched with the feeling of our infirmities,</hi> as the Apoſtle phraſeth it, <hi>Heb.</hi> 14.15. he knows how to cleer every channell to convey, and ſeaſonably to diſpence comfort: he is infinite in power, and is able to do whatſo<g ref="char:EOLhyphen"/>ever he will; there is nothing can reach beyond his power: he is infinite in goodneſſe, in love, which layes an engage<g ref="char:EOLhyphen"/>ment upon him, to let out and act theſe for the good of all afflicted ones: ſo that be our ſtraits never ſo great, there's wiſdome enough to ſee them, and to bring out of them; be our enemies, our weakneſſe never ſo powerfull, there is ſtrength enough to ſuſtain, to reſcue us; be our back-ſli<g ref="char:EOLhyphen"/>dings never ſo many, there is goodneſſe and love enough to heale them, faithfulneſſe and truth enough in God to per<g ref="char:EOLhyphen"/>forme, what ever he hath promiſed. In many places he is ſtyled <hi>The Lord of Hoſts;</hi> he is one that hath the command of all the creatures both in heaven and earth: and if they cannot afford help enough, he can create more; he can doe
+<pb n="13" facs="tcp:161549:9"/>it without them, by, and from himſelfe; he can change the very courſe of nature for his childrens good. See it in <hi>Jonah,</hi>
+               <note place="margin">Iſa. 59.10.</note> in the three Children, in <hi>Daniel.</hi> As no meanes can ſave where God will ruine; ſo nothing ſhall hinder where God will help. I might be particular in the proof of this truth, and ſhew you the fulneſſe that is in God to ſupply us. 1. In reſpect of all our neceſſities, both for ſoul, or body, or both: there is that in him that will ſupply every want, make up every defect: God is a generall, an univerſall good. 2. In reſpect of all times and ſeaſons: It may be ſaid of creature<g ref="char:EOLhyphen"/>comforts (as one ſpeaks) as 'twas of <hi>David,</hi> he ſerved his time; but God is ſuch a help, to whom there is no time, wherein he cannot do good: <hi>Nullum tempus occurrit regi:</hi> no ſeaſon is out of ſeaſon with him: he is as able now, as then, then, as at any other time: All times are alike to him, who never wants power, nor a heart to do good to his. But I am confident you of this place have ſeen, and can ſpeak as much of God in this particular, as ever did a people; (oh that you had hearts to render unto him according to all the good that he hath ſhewn ye!) and therefore I ſhal haſten to the Application, and the main Uſe ſhall be to provoke you unto thankfulneſs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> Is it ſo, that God never wants ſupplies to help his people? and wil you want tongues and hearts to praiſe that God, who hath laid out ſo much goodneſſe, and love, and power, and wiſdome in your deliverance? hath God drawn forth ſomething of all his treaſure to help you, and will not you draw out any thing of yours to glorifie him? where Gods favour ſhines, there cannot but be a reflection: true love will never be idle; 'tis a working, an active grace, it muſt (as one) returne or die. Oh the baſe ingratitude of many! who are ſo far from taking advantage from the receipt of mercies to praiſe God, as that they either bury them, or a<g ref="char:EOLhyphen"/>buſe
+<pb n="14" facs="tcp:161549:10"/>them to his diſhonour. Friends, conſider what God hath done for you; the mercies that you have received, do enjoy; But tell me, where are your books of remembrance? where is your <hi>Jehovah</hi> now, <hi>Exod.</hi> 17.15. wherein you have proclaimed God to be your ſalvation? what is become of all Gods wonders among you? wonders that might even fill a Volumn, and give life to a ſtory that ſhould out-live the world? whither is the memory of all your deliverances fled? deliverances<note n="(a)" place="margin">When the Caſtle was firſt taken by the Park forces.</note> from cruelty and oppreſſion within, when they that hated you, ruled over you; from the teeth and ſury of thoſe barbarous wretches<note n="(b)" place="margin">At the rai<g ref="char:EOLhyphen"/>ſing of the firſt and laſt Sieges.</note> without? have you forgotten this? Again, what is become of the deſtroy<g ref="char:EOLhyphen"/>ing peſtilence; that within theſe few years had taken up its habitation among you? hath your preſent health and jol<g ref="char:EOLhyphen"/>lity put to ſilence all thoſe dying groans, which ſo lately ſounded in your affrighted ears? ſhall ſuch mercies as theſe are, lie raked up in the duſt of time, without any monu<g ref="char:EOLhyphen"/>ment ſet over them, to tell, once they were? But to paſſe over theſe, this day alone hath matter enough of an eternall gratulation, being the center (as it were) wherein all mer<g ref="char:EOLhyphen"/>cies met upon your heads. Oh what an evidence of love, and wiſdome, and power was here, that when ſo many po<g ref="char:EOLhyphen"/>tent and malicious enemies had environ'd you, were ſo neer you, had brought deſtruction within your walls, even to your threſholds; enemies that were high in bloud and rage; that had all the helps that either <hi>Rome</hi> or Hell could afford; when you were even ready to be ſwallowed up of them (and in your own apprehenſions, a loſt, an helples, hopeles people) that God ſhould then, even in the very nick of time, when your necks were on the Altar, and under the ſword, that he ſhould then ſtep in, and find means for your eſcape, defeat them, deliver you!—ſurely no ſtrength, no Armies ſhall prevaile to ruine them, whom God reſolves to pro<g ref="char:EOLhyphen"/>tect,
+<pb n="15" facs="tcp:161549:10"/>to deliver: if he be with us, no matter who is againſt us. <hi>Oh, that you would therefore praiſe the Lord for his good<g ref="char:EOLhyphen"/>neſs, and declare the wonders that he hath done for you!</hi> May not we ſay of <hi>Taunton,</hi> as once <hi>Balaak</hi> ſaid of <hi>Iſrael, Num.</hi> 23. what hath God wrought for you! oh, how ſolemnly feſti<g ref="char:EOLhyphen"/>vall ſhould this day be to you, and your poſſerities for e<g ref="char:EOLhyphen"/>ver! Let me therefore ſpeak to you in the words of the Lord to <hi>Moſes, Exod.</hi> 17.14. <hi>write it for a memoriall in a book, and rehearſe it to Joſuah:</hi> ſo do you; ſet up a <hi>monu<g ref="char:EOLhyphen"/>ment</hi> of this deliverance, a monument, that may eternize Gods praiſes, and procure him honour, by thoſe that are yet unborn: <hi>that you may ſing of the mercies of God for ever, and may make known his faithfulneſſe to all generations:</hi> take up the expreſſions and reſolutions of the Pſalmiſt, <hi>Pſalm.</hi> 118.24. <hi>This is the day which the Lord hath made, we will re<g ref="char:EOLhyphen"/>joyce and be glad in it.</hi> Sure I am, had your enemies pre<g ref="char:EOLhyphen"/>vailed, it would have been an high feaſt in <hi>Gath,</hi> a day of <hi>Jubile</hi> in <hi>Aſcalon;</hi> the daughters of the uncircumciſed would have made it a day of triumph: be not you behind them, but ſhew as much joy, expreſſe as much thankfulnes for your deliverance, as they would certainly have done for utter deſolation. Think ſeriouſly on it; (I cannot but ſpeak it again) hath God beſtowed ſuch favours on <hi>Taunton,</hi> and ſhall <hi>Taunton</hi> forget them? there is an Emphaſis in that word; much Rhetorick in it; <hi>Taunton?</hi> a place that hath been freed from ſo many judgements, and that ſo oft; the ſword, the Peſtilence, and the famine? that doth enjoy ſo many bleſſings, and thoſe ſo pretious; health, proſperity, plenty, and the glorious Goſpel of Jeſus Chriſt, &amp;c. a place for which God hath wrought ſo many (even miracles of) mercies for its preſervation, in its deliverance; ſhall ſuch fa<g ref="char:EOLhyphen"/>vours be heaped upon ſuch a people; and ſhould they die in their thoughts? but for two or three motives, if this ſerve not, to ſtir you up.</p>
+            <pb n="16" facs="tcp:161549:11"/>
+            <p n="1">1. Conſider the miſery you were in before you were de<g ref="char:EOLhyphen"/>liver'd, that is the way to exalt God in your praiſes: re<g ref="char:EOLhyphen"/>preſent to your ſelves your ſad condition, your fears, your wants, your dangers: contraries illuſtrate one another, as proſperity and adverſity. The miſery of a Saint formerly, ſets forth the mercy of God in Jeſus Chriſt: one years peace now, is more priſed then ten before: the want of things do much commend them: As the wickeds troubles are mightily aggravated, by the mercies went before; ſo the Saints deliverances, by the miſeries preceded. You that have deliverance by Chriſt, look to the miſery you were in, begin with that: what darkneſſe and ſhadow of death did you ſit in? in what bondage to ſin and hell? how irreco<g ref="char:EOLhyphen"/>verably loſt and undone in your ſelves? when we were ſin<g ref="char:EOLhyphen"/>ners Chriſt died for us; when ungodly, when enemies, when dead, <hi>Rom.</hi> 5. <hi>Epheſ.</hi> 2. look to this mercy of God in Chriſt: alas! what praiſe will ye elſe give to God this day? we can never praiſe God aright unleſſe we look upon the perfection of all miſery we were in, to the perfection of all happineſſe that by Chriſt God hath brought us to: to ſtudy miſery out of Chriſt, is to dig to hell; but to ſtudy miſery and Chriſt, is to build to heaven, ſo for the buſineſs of this day: remember from whence you were delivered; take the riſe of the miſery there: the way to value a mercy, is to ſee a miſery: look back to the beginning of your troubles, and ſee the wonders God hath wrought; what ſeas have been divided for you to paſſe through: remember how nigh you were to the enemies hands, what enemy 'twas, what their threats, their malice, their bloudy reſolu<g ref="char:EOLhyphen"/>tions: look on the ſtraits you were in for Ammunition, Proviſion; and with what a mighty hand and ſtretched<g ref="char:EOLhyphen"/>out arme God did ſupply you, and hath reſcued you; look upon all the waies of God towards you, that you may re<g ref="char:EOLhyphen"/>turn
+<pb n="17" facs="tcp:161549:11"/>to him according to his working, and rejoice in him: 'tis a poor thing to have ſuch a ſtrong hold preſerved, ſuch a cruel enemy ſubdued, to be matter of your joy: but let this, <hi>that the Lord of hoſts is with you;</hi> let that be the matter of your joy, of your praiſe: Let temporall deliverance ſtir up within us a war againſt our luſts, our pride, our ſelf-ends, our looſenes, &amp;c. oh, theſe are provoking things, which of themſelves will work our deſtruction; they are graves of <hi>Sodome,</hi> vines of <hi>Gomorrah;</hi> Fight againſt theſe, but let God be your joy, let him be matter of your praiſe.</p>
+            <p n="2">2. Conſider your demerits, how little you deſerved, how juſtly you might have periſhed, and been both the prey and ſcorn of your bloud-thirſty enemies: he that thinks him<g ref="char:EOLhyphen"/>ſelfe unworthy of any thing, will be thankfull for every thing, content with the ſmalleſt mercy; much more for ſuch a concerning one.</p>
+            <p>Thirdly, Look upon the worth, the excellency of the mercy vouchſafed you; nay, how many mercies you enjoy, how many miſeries you have eſcaped by it: the conſidera<g ref="char:EOLhyphen"/>tion of your condition with ſuch mercies, will ſet an high price upon what you now enjoy, and provoke you to thank<g ref="char:EOLhyphen"/>fulneſs: how ſad, how truly miſerable would your lives have been, without Wife, Children, houſes, friends, e<g ref="char:EOLhyphen"/>ſtates, without the preſence of God in his ordinances: and is not the enjoyment of all theſe (and more) worthy of thanks? what was your bitternes when every moment you expect either death, or a priſon? and can you not thank God, who hath wrought ſo happy a change?</p>
+            <p n="4">4. Confider 'tis the way not onely to continue, but en<g ref="char:EOLhyphen"/>creaſe your bleſſings: unthankfulneſs forfeits all we have received, undoes all: dries up the channell, and ſtops the paſſages through which mercies ſhould flow; but this laies all open: I know you uſe to ſow your ſeed, where you may
+<pb n="18" facs="tcp:161549:12"/>have moſt encreaſe; ſo God his favours where he hath moſt praiſe: But then remember in your return of praiſe it muſt bee,</p>
+            <p n="1">1. A free praiſe, not preſſed or wrung out; the willing<g ref="char:EOLhyphen"/>nes of the mind is ever the fat of the ſacrifice: God gives, delivers freely; therefore doe you praiſe him freely.</p>
+            <p n="2">2. Full and compleat: not of the face onely to ſhew, nor the tongue only to proclaim it, but of the heart too: that is true praiſe, when the heart as well as the tongue ſounds it forth, <hi>Pſal.</hi> 103.</p>
+            <p n="3">3. Holy: they were merry that kept the Kings day, <hi>Hoſ.</hi> 7.5. by taking bowl after bowl, till they were ſick again: ours muſt not be ſuch: It muſt begin at <hi>Hoſanna: I will make them joyfull in my houſe of prayer:</hi> the ſtream of our praiſe, muſt come from the ſpring head of religion. And then</p>
+            <p n="4">4. Laſtly, it muſt be conſtant, continued in our <hi>conver<g ref="char:EOLhyphen"/>ſations:</hi> we muſt live thankfully as well as ſpeak ſo: you all ſeem to congratulate the joy of this day, but if you would approve your ſelves truly thankfull to your God, in whoſe favour is life, and ſo be gainers by all your former loſſes; Live down your ſins, your formality, your ſecuri<g ref="char:EOLhyphen"/>ty, &amp;c. part with all your gainfull, your plauſible evils: be more holy, more humble, more temperate, ſpirituall, fruit<g ref="char:EOLhyphen"/>full, &amp;c. renue your holy covenants with your God, and keep them for ever: oh, how memorable a pattern of mer<g ref="char:EOLhyphen"/>cy would you then be! and what a famous trophe of vi<g ref="char:EOLhyphen"/>ctory might then be erected in <hi>Taunton,</hi> over all your ene<g ref="char:EOLhyphen"/>mies! And you that are Magiſtrates, rouze up your ſpirit, awaken your Chriſtian courage, bear not the ſword in vain; but ſet your ſelves zealouſly againſt the ſins of your Town to root them out, which elſe will betray your happines; and the Lord be with you. One obſervation more, and I have done.</p>
+            <pb n="19" facs="tcp:161549:12"/>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>7</label> 'Tis Chriſt alone that ſweetens all conditions.</q>
+            <p>He is the tree that muſt be thrown into the waters; he ſweetens the law, afflictions, proſperity, adverſity; that turns all into gold. Let our condition be what it will, if Chriſt be there, it cannot but be comfortable: ſee it in <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> how many Pſalmes did he begin in fear; which he did end in joy? at firſt you ſhall find little, but anguiſh, diſpair; yet after a ſharp conflict nothing appears but joy: what, did there a meſſenger of good news come in whilſt he was writing; as <hi>Eliſha</hi> ſent to the King of <hi>Iſrael,</hi> whilſt he was rending his clothes: 2 <hi>King.</hi> 5. No but as he grew more inward and familiar with God, his ſoul became lighter and lighter, ariſing from the burden with abundance of com<g ref="char:EOLhyphen"/>fort. Nothing can trouble or darken that ſoule where Chriſt is pleaſed to ſhine: <hi>thy favour is better then life: Pſal.</hi> 63.5. and Chriſt to <hi>Paul, my grace is ſufficient,</hi> 2 <hi>Cor.</hi> 12.9. Sathans buffets can never hurt, where the grace of Chriſt is our ſtrength: as no plaiſter can cure where he wounds, ſo no ſorrows ſhall overcome where he is the com<g ref="char:EOLhyphen"/>forter.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> Is it ſo? Labour to ſee an excellency in Jeſus Chriſt: It will one day be a confuſion to all thoſe ſordid ſpirits that know nothing more excellent then riches: heaven delights not them, becauſe it brings them no mony: ſuch things as Angels ſtand amaz'd at and admire, they ſee no excellency in them: let God, and Chriſt, and heaven, and all go, ſo they may have pleaſures and profits: 'tis a ſigne their eies are ſtopt with clay: a ſigne of reprobation, to live under the Goſpel, and not have our ſpir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts in ſome meaſure eleva<g ref="char:EOLhyphen"/>ted: many Chriſtians do not look upon themſelves as born to greater things, then to get wealth, but did Chriſt come to purchaſe no greater things then theſe? what are your hearts upon? would you not bleſſe your ſelves, if you could
+<pb n="20" facs="tcp:161549:13"/>get ſuch an eſtate; as ſuch, or ſuch a man hath, and be con<g ref="char:EOLhyphen"/>tent if God ſhould give thee thy portion in this life? oh, the baſenes, the blindnes of men!</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> Is it ſo? make out for Chriſt, trade for this pearl: thou ſhalt never repent thee for any pains thou takeſt about him: he will prove a ſufficient recompence for all your labour, your ſufferings: do but once taſte him, and you will for e<g ref="char:EOLhyphen"/>ver after be in love with him. And you that have him, make uſe of him, make much of him, love him, prize him: he is full of comforts, of ſweetneſs, of raviſhing delights: in <hi>Eſa.</hi> 51.11. 'tis ſaid, <hi>that the redeemed of the Lord ſhall come with ſinging unto Sion, and everlaſting joy ſhall be upon their heads: they ſhall obtain gladneſs, and joy; and ſorrow and mourning ſhall flee away:</hi> there is matter of joy, of triumph in Jeſus Chriſt; and though you ſhould meet with bitter waters at firſt, yet you ſhall find ſweet at the laſt; though you drink of the waters of <hi>Marah</hi> here; yet you ſhall arive at <hi>Canaan</hi> in the end, where you ſhall not only drink off, but ſweetly bathe your ſelves in never-ending ri<g ref="char:EOLhyphen"/>vers of glory and pleaſure for evermore, and help make up that heavenly conſort, in ſinging <hi>Hallelujah;</hi> glory, and ho<g ref="char:EOLhyphen"/>nour, and praiſe to him that ſits on the throne, who liveth for ever and ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
